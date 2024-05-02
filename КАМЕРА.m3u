@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0 АХТУБИНСК
+https://dvr2.astrakhan.ru/ahtu-ciol-1-hd-7/index.m3u8
+#EXTINF:0 АХТУБИНСК
+https://dvr2.astrakhan.ru/ahtu-zavo-187-hd-1/index.m3u8
+#EXTINF:0 АСТРАХАНЬ
+https://dvr2.astrakhan.ru/kras-31-hd-2/index.fmp4.m3u8
+#EXTINF:0 АСТРАХАНЬ
+https://dvr5.astrakhan.ru/cam14hd/index.fmp4.m3u8
+#EXTINF:0 АСТРАХАНЬ
+https://dvr.astrakhan.ru/boev-126k10-hd-3/index.fmp4.m3u8
+#EXTINF:0 АСТРАХАНЬ
+https://dvr5.astrakhan.ru/boev-124-hd-1/index.fmp4.m3u8
+#EXTINF:0 АСТРАХАНЬ
+https://dvr2.astrakhan.ru/nabp-36k1-hd-1/index.fmp4.m3u8
+#EXTINF:0 АСТРАХАНЬ
+https://dvr2.astrakhan.ru/cam3hd/index.fmp4.m3u8
+#EXTINF:0 АСТРАХАНЬ
+https://dvr2.astrakhan.ru/lenp-2-hd-11/tracks-v1/index.m3u8
+#EXTINF:0 ЗНАМЕНСК
+https://dvr2.astrakhan.ru/znam-9-4g-hd-1/index.fmp4.m3u8
+#EXTINF:0 ВОЛЖСКИЙ
+https://flussonic2.powernet.com.ru:8081/user85946/tracks-v1/mono.m3u8
+#EXTINF:0 ВОЛЖСКИЙ
+https://flussonic2.powernet.com.ru:8081/user109559/tracks-v1/mono.m3u8
+#EXTINF:0 ВОЛЖСКИЙ
+https://flussonic2.powernet.com.ru:8081/user146480/index.m3u8
+#EXTINF:0 ВОЛГОГРАД
+https://flussonic2.powernet.com.ru:8081/user81415/index.m3u8
